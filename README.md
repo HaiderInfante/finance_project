@@ -1,0 +1,1 @@
+![Diagrama del flujo](reports/figures/110725_distribucion_carpetas.png)
